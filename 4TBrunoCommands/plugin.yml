@@ -1,0 +1,11 @@
+name: 4TBrunoCommands
+author: [devBruno4T]
+version: 1.0
+main: com.devbruno.cmds.Main
+commands:
+  gm:
+  gamemode:
+  cabeca:
+  fly:
+  clear:
+  
