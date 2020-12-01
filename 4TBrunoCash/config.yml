@@ -1,0 +1,20 @@
+#Este plugin foi uma encomenda para a Rede Furion, porém os mesmos acabaram passando GOLPE em mim
+#então estarei postando aqui na github para quem for analisar meu perfil e meus códigos dar uma olhada
+#no plugin.
+#Contacte o developer caso encontre algum erro
+#Discord: Bruno_4T#8836
+#
+MySQL:
+  Host: ''
+  Usuario: ''
+  Senha: ''
+  Database: ''
+  
+#Permissão de staff setar/remover/adicionar cash: "bruno.cash.admin"
+Itens:
+  sword: #Permissão para adquirir o item "bruno.cash.item.sword"
+    Custo: 3.0 #Cash necessário para adquirir o item
+    Mensagem: "&eVocê comprou uma espada!" #Mensagem ao adquirir o item
+    Comandos:
+      - 'give <player> diamond_sword 1'
+      - 'tm msg <player> &6&lSHOP <nl> &fVocê comprou uma espada'

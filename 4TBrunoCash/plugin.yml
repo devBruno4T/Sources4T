@@ -1,0 +1,8 @@
+name: 4TBrunoCash
+version: 1.0
+author: [devBruno4T]
+main: com.devbruno.cash.Main
+depend: [MVdWPlaceholderAPI, FeatherBoard]
+commands:
+  cash:
+  compraritem:
