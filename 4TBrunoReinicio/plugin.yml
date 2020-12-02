@@ -1,0 +1,8 @@
+name: 4TBrunoReinicio
+main: com.devbruno.reinicio.Main
+author: [devBruno]
+version: 1.0
+softdepend:
+  - LegendChat
+commands:
+  reiniciar:

@@ -1,0 +1,27 @@
+#Comandos & funções
+ExecutarComandos: false
+AbrirBaus: false
+AbrirBeacon: false
+AbrirBauDoFim: false
+AbrirMesaDeTrabalho: false
+UtilizarEnderPearl: false
+UtilizarChat: true
+ColocarBlocos: true
+RetirarBlocos: true
+AbrirDispensers: true
+AbrirDroppers: false
+AbrirFornalhas: false
+AbrirBigornas: false
+DroparItens: true
+ComandosBloqueados:
+  - "/echest"
+#Horários de reinicio
+ReiniciarAutomatico: true
+Horarios:
+  Manha_1:
+    Time: '10:00'
+  Tarde_1:
+    Time: '15:00'
+  Noite_1:
+    Time: '20:00'
+#Permissão para reinicar: 4treiniciar.reinicio
